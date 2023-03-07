@@ -1,0 +1,117 @@
+{
+    "pageSpecificMessage": {},
+    "headerProperty": {
+        "backgroundColor": "#5a7dfa",
+        "foregroundColor": "#ffffff",
+        "headerStyle": "solid"
+    },
+    "backgroundImage": "1",
+    "widgetLogoUrl": "https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/cc4d4fa70bed908bec6d8718f7ae46c8936f26c35a3be8d5e35be64bc0a4fb48/f_marketingpicFull/u_cdf1b2abab123c25a59b064b1955b01e808469a574ee8f68cf2c6bcb2167c26f/img_o5gj8ju5j1_027e53216ee19f93c2388e70d6759ad3b3ee0c6f7ea95925952cb25f39a7947c.png",
+    "customBackground": false,
+    "appId": 588001139693325,
+    "configId": 220582,
+    "createdMillis": 1646312299440,
+    "updatedMillis": 1646316795211,
+    "appName": "ToolJet",
+    "accountId": "N7DKVNR40P",
+    "publicChannelName": "0a7fc6d3618f5b92e32532308f72b312099b32e93c2204c204a922e31a2408ea",
+    "publicTokenName": "rts-token",
+    "enabledFeatures": [
+        "LIVE_TRANSLATE",
+        "FAQ",
+        "TYPING_INDICATOR",
+        "WHATSAPP_PROACTIVE_MSG",
+        "COBROWSING",
+        "AUTO_CAMPAIGNS",
+        "USER_TAG",
+        "APP_FILE_UPLOAD",
+        "EMAILS",
+        "READ_RECEIPTS",
+        "WHATSAPP_PMP",
+        "WHATSAPP_AUC",
+        "USER_EVENT",
+        "INBOX",
+        "EMAIL_CAMPAIGNS"
+    ],
+    "gdprSettings": {
+        "gdprAppSettingsId": 220582,
+        "appId": 588001139693325,
+        "disableUserAnalytics": false,
+        "disableUserIpStore": false,
+        "disableProfileEnrichment": false
+    },
+    "csatSettings": {
+        "userCsatViewTimer": false,
+        "maximumUserSurveyViewHours": 1,
+        "maximumUserSurveyViewMillis": 0
+    },
+    "widgetSize": "small",
+    "liveTranslationSetting": {
+        "enabled": false
+    },
+    "hideMessenger": false,
+    "appearanceConfig": {
+        "brandLogoURL": "https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/cc4d4fa70bed908bec6d8718f7ae46c8936f26c35a3be8d5e35be64bc0a4fb48/f_marketingpicFull/u_cdf1b2abab123c25a59b064b1955b01e808469a574ee8f68cf2c6bcb2167c26f/img_o5gj8ju5j1_027e53216ee19f93c2388e70d6759ad3b3ee0c6f7ea95925952cb25f39a7947c.png",
+        "welcomeMessage": "",
+        "welcomeSubMessage": "",
+        "conversationTitle": "",
+        "faqTitle": "",
+        "brandColor": {
+            "backgroundColor": "#5a7dfa",
+            "foregroundColor": "#ffffff"
+        },
+        "brandColorStyle": "solid",
+        "buttonColor": {
+            "backgroundColor": "#5a7dfa",
+            "foregroundColor": "#ffffff"
+        },
+        "widgetLauncherColor": {
+            "backgroundColor": "#5a7dfa",
+            "foregroundColor": "#ffffff"
+        },
+        "backgroundImage": "1",
+        "widgetVisiblity": {
+            "selected": "always",
+            "options": [
+                "always",
+                "hidden"
+            ]
+        },
+        "widgetLauncherStyle": "ICON",
+        "widgetLauncherValue": "",
+        "widgetSize": "small",
+        "widgetPosition": "BOTTOM_RIGHT",
+        "widgetBottomOffsetPx": 15,
+        "widgetRightOffsetPx": 15,
+        "removeFreshworksBranding": false
+    },
+    "advancedOptionsConfig": {
+        "enableTrustedUrls": false,
+        "trustedUrls": [],
+        "enableShowTypingIndicator": true,
+        "enableBrowserNotification": true,
+        "enableNotificationSound": true,
+        "enableAttachFile": true,
+        "enableHideResolvedConversation": false
+    },
+    "showPoweredBy": true,
+    "betaFeatures": [
+        "MULTI_WIDGETS_CONFIG_ENABLED"
+    ],
+    "enabledAgentTypingIndicator": true,
+    "messengerVisibility": {
+        "selected": "always",
+        "options": [
+            "always",
+            "hidden"
+        ]
+    },
+    "campaignSettings": {
+        "shouldInterrupt": false,
+        "timeInterval": 30
+    },
+    "sales360App": false,
+    "support360App": false,
+    "omniKBaseEnabled": false,
+    "defaultConfigCreation": false
+}
